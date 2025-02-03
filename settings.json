@@ -17,5 +17,16 @@
     "breadcrumbs.enabled": true,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
-    "workbench.colorTheme": "Hack The Box",
+    "workbench.colorTheme": "Min Darkest",
+    "dart.flutterSdkPath": "C:\\sdk\\flutter",
+    "git.autofetch": true,
+    "chatgpt.lang": "en",
+    "cmake.showOptionsMovedNotification": false,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPathWindows": "C:\\Users\\gab_z\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPath": "C:\\Users\\gab_z\\AppData\\Local\\Android\\Sdk\\emulator",
 }
